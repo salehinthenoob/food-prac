@@ -20,18 +20,19 @@ h1 {
     display: flex;
     padding-left: 5%;
     margin-bottom: 200px;
+
 }
 
 .two {
     display: flex;
     padding-left: 5%;
-    background-image: url(/imagesn/sa.jpg);
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190221/ourmid/pngtree-simple-green-gradient-geometric-beautiful-gradient-image_11792.jpg);
+    background-size: auto;
 }
 
 .three {
     display: flex;
-    padding-left: 5%;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
 }
 
 
@@ -108,8 +109,10 @@ div img {
     align-content: center;
 
 
-    margin: 20px 20px 20px 20px;
+    margin: 20px;
     border-radius: 20px;
+
+    border: 2px solid black;
 }
 
 .four {
@@ -162,10 +165,14 @@ span {
     text-align: center;
 }
 
-#s1 {
+.s1 {
     color: rgb(54, 54, 235);
 }
 
 p {
     color: gray;
+}
+
+.two h1 {
+    color: rgb(50, 107, 0);
 }
