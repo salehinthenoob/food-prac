@@ -1,0 +1,171 @@
+body {
+    margin: 0;
+    font-family: 'Caveat', cursive;
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Finlandica', sans-serif;
+
+    font-family: 'Gentium Book Plus', serif;
+
+    font-family: 'Lobster', cursive;
+}
+
+h1 {
+    font-size: 50px;
+    ;
+}
+
+.one {
+    display: flex;
+    padding-left: 5%;
+    margin-bottom: 200px;
+}
+
+.two {
+    display: flex;
+    padding-left: 5%;
+    background-image: url(/imagesn/sa.jpg);
+}
+
+.three {
+    display: flex;
+    padding-left: 5%;
+    margin-bottom: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+.threee {
+    display: flex;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+
+}
+
+.too1 {
+    padding-left: 30px;
+}
+
+.too2 {
+    padding-left: 400px;
+}
+
+.too3 {
+    padding-left: 400px;
+    margin-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.halfw {
+    max-width: 50%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+div img {
+    max-width: 100%;
+}
+
+.too {
+    max-width: 40%;
+    padding-left: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+
+
+}
+
+.too h3 {
+    text-align: center;
+}
+
+.too img {
+    max-width: 80%;
+    max-height: 60%;
+    align-content: center;
+
+
+    margin: 20px 20px 20px 20px;
+    border-radius: 20px;
+}
+
+.four {
+    display: flex;
+    max-width: 30%;
+}
+
+.onea {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(0, 26, 255), rgb(0, 151, 216));
+    color: aliceblue;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+.twoa {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, rgb(218, 70, 70));
+    color: aliceblue;
+    font-weight: 800;
+    border-radius: 5px;
+}
+
+
+
+footer {
+
+    background-color: black;
+    height: 280px;
+}
+
+footer p {
+    text-align: center;
+    color: aliceblue;
+}
+
+footer h1 {
+    text-align: center;
+    color: aliceblue;
+}
+
+span {
+    color: orange;
+}
+
+
+#rec {
+    text-align: center;
+}
+
+#s1 {
+    color: rgb(54, 54, 235);
+}
+
+p {
+    color: gray;
+}
