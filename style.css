@@ -1,18 +1,10 @@
 body {
     margin: 0;
-    font-family: 'Caveat', cursive;
-
-    font-family: 'Dancing Script', cursive;
-
-    font-family: 'Finlandica', sans-serif;
-
-    font-family: 'Gentium Book Plus', serif;
-
-    font-family: 'Lobster', cursive;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 45px;
     ;
 }
 
@@ -178,3 +170,28 @@ p {
 .two h1 {
     color: rgb(50, 107, 0);
 }
+
+
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat&family=Dancing+Script&family=Finlandica&family=Gentium+Book+Plus&family=Lobster&display=swap"
+        rel="stylesheet">
+        
+        
+        
+        
+        
+        
+        
+          font-family: 'Caveat', cursive;
+
+    font-family: 'Dancing Script', cursive;
+
+    font-family: 'Finlandica', sans-serif;
+
+    font-family: 'Gentium Book Plus', serif;
+
+    font-family: 'Lobster', cursive;
+}
+        */
